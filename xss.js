@@ -1,1 +1,1 @@
-<script>alert("XSS Test")</script>
+alert("XSS Alert! Script Executed!");
